@@ -1,0 +1,100 @@
+{
+  "friends": [
+    {
+      "firstname": "Raghubir",
+      "lastname": "Singh",
+      "id": "manoj",
+      "age": 38
+    },
+    {
+      "firstname": "Tejinder",
+      "lastname": "Bhatti",
+      "id": "deepak",
+      "age": 30
+    },
+    {
+      "FirstName": "Wasim",
+      "LastName": "Ansari",
+      "Destination": "QA",
+      "id": "wasim.ansari@globalsign.com"
+    },
+    {
+      "FirstName": "Wasim",
+      "LastName": "Ansari",
+      "Destination": "QA",
+      "id": "123"
+    },
+    {
+      "FirstName": "WasimNew",
+      "id": "Yq7762q"
+    },
+    {
+      "Destination": "SQA",
+      "FirstName": "WasimNew",
+      "LastName": "AnsariNew",
+      "id": "987654321"
+    },
+    {
+      "FirstName1": "WasimNew",
+      "id1": "987654321",
+      "LastName1": "AnsariNew",
+      "Destination1": "SQA",
+      "id": "0X7AxGN"
+    },
+    {
+      "FirstName1": "A",
+      "Address": {
+        "Locality": "SB Loc",
+        "city": "London",
+        "Country": "UK"
+      },
+      "id1": "%^&$@!#@#",
+      "LastName1": "Complex",
+      "Destination1": "JSON",
+      "id": "YaIvHEP"
+    },
+    {
+      "map": {
+        "Address": {
+          "myArrayList": [
+            {
+              "map": {
+                "Locality": "LocalityTest",
+                "Street": "StreetTest",
+                "City": "CityTest"
+              }
+            },
+            {
+              "map": {
+                "Region": "EMEA",
+                "Country": "UK"
+              }
+            }
+          ]
+        },
+        "FirstName": "Rahul",
+        "id1": "765",
+        "LastName1": "Roy",
+        "Destination1": "Developer"
+      },
+      "id": "s0iBhov"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

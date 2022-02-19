@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-19T12:55:50Z" name="Suite" finished-at="2022-02-19T12:56:04Z" duration-ms="14152">
+    <groups>
+    </groups>
+    <test started-at="2022-02-19T12:55:50Z" name="Test" finished-at="2022-02-19T12:56:04Z" duration-ms="14152">
+      <class name="PageObjectTestcases.TC_002_Login">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:PageObjectTestcases.TC_002_Login@65a15628]" started-at="2022-02-19T12:55:58Z" name="SetUp" finished-at="2022-02-19T12:55:58Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="validateLogin()[pri:0, instance:PageObjectTestcases.TC_002_Login@65a15628]" started-at="2022-02-19T12:55:58Z" name="validateLogin" finished-at="2022-02-19T12:55:58Z" duration-ms="758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogin -->
+      </class> <!-- PageObjectTestcases.TC_002_Login -->
+      <class name="PageObjectTestcases.TC_003_Delete">
+        <test-method is-config="true" signature="SSetUp()[pri:0, instance:PageObjectTestcases.TC_003_Delete@2e6a5539]" started-at="2022-02-19T12:55:58Z" name="SSetUp" finished-at="2022-02-19T12:55:58Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SSetUp -->
+        <test-method signature="validateDelete()[pri:0, instance:PageObjectTestcases.TC_003_Delete@2e6a5539]" started-at="2022-02-19T12:55:58Z" name="validateDelete" finished-at="2022-02-19T12:56:02Z" duration-ms="3560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDelete -->
+      </class> <!-- PageObjectTestcases.TC_003_Delete -->
+      <class name="PageObjectTestcases.TC_004_Edit">
+        <test-method is-config="true" signature="deleteSetUp()[pri:0, instance:PageObjectTestcases.TC_004_Edit@3fc9504b]" started-at="2022-02-19T12:56:02Z" name="deleteSetUp" finished-at="2022-02-19T12:56:02Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteSetUp -->
+        <test-method signature="validateEdit()[pri:0, instance:PageObjectTestcases.TC_004_Edit@3fc9504b]" started-at="2022-02-19T12:56:02Z" name="validateEdit" finished-at="2022-02-19T12:56:04Z" duration-ms="2017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateEdit -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:PageObjectTestcases.TC_004_Edit@3fc9504b]" started-at="2022-02-19T12:56:04Z" name="afterSuite" finished-at="2022-02-19T12:56:04Z" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- PageObjectTestcases.TC_004_Edit -->
+      <class name="PageObjectTestcases.TC_001_Launch">
+        <test-method is-config="true" signature="SetUpLaunch()[pri:0, instance:PageObjectTestcases.TC_001_Launch@5460cf3a]" started-at="2022-02-19T12:55:50Z" name="SetUpLaunch" finished-at="2022-02-19T12:55:56Z" duration-ms="6540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpLaunch -->
+        <test-method signature="validateTitle()[pri:0, instance:PageObjectTestcases.TC_001_Launch@5460cf3a]" started-at="2022-02-19T12:55:56Z" name="validateTitle" finished-at="2022-02-19T12:55:58Z" duration-ms="1247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+      </class> <!-- PageObjectTestcases.TC_001_Launch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
